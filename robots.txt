@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acivacu.github.io/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/app/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/assets/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/css/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/data/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/includes/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/item/sitemap.acivacu.gz
+Sitemap: https://acivacu.github.io/src/sitemap.acivacu.gz
